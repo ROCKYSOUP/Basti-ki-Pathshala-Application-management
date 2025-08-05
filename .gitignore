@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store       # macOS
+Thumbs.db       # Windows
+desktop.ini     # Windows
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Git files
+.git/
+*.orig
